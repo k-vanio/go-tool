@@ -38,4 +38,4 @@ jobs:
         go get -u .
         go clean -testcache
         go mod tidy
-        make test
+        go test -race -v ./...
