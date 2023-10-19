@@ -1,5 +1,8 @@
 # Go Tool: Streamlining Tasks Efficiently in Golang
 
+[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/k-vanio/go-tool/ci.yml?style=flat-square)](https://github.com/k-vanio/go-tool/actions)
+[![Codecov](https://img.shields.io/codecov/c/github/k-vanio/go-tool.svg?style=flat-square)](https://codecov.io/gh/k-vanio/go-tool)
+
 ## Package Array
 
 ### Overview
