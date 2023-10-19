@@ -35,7 +35,6 @@ jobs:
         path: ${{ env.GOPATH }}/src/github.com/${{ github.repository }}
     - name: Test
       run: |
-        go get -u .
         go clean -testcache
         go mod tidy
         go test -race -v ./...
